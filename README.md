@@ -23,7 +23,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## License
 
-Copyright (C) 2021 smallpdf, engageclients contributors listed in AUTHORS.
+Copyright (C) 2021 saeidashraf, engageclients contributors listed in AUTHORS.
 
 engageclients is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License Version 3, 29 June 2007 as published by the Free Software Foundation, https://www.gnu.org/licenses/gpl-3.0.html
 
