@@ -1,6 +1,10 @@
 # engageclients
 mmm ...
 
+## Exercise #1
+Based on the information provided, What are some of the biggest drivers of retention and engagement? Why?
+
+
 ## Web App
 mmm ...
 
