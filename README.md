@@ -19,7 +19,7 @@ See our [contribution guidelines](http://www.saeidashraf.com/) for more informat
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [releases on this repository](https://github.com/CLIENTS-project/engageclients/releases).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [releases on this repository](https://github.com/engageclients/releases).
 
 ## License
 
