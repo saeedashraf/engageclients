@@ -1,7 +1,7 @@
 # engageclients
 mmm ...
 
-## Exercise #1
+## A. Exercise #1
 
 #### Based on the information provided, What are some of the biggest drivers of retention and engagement? Why?
 1. Desktop applications have much better retention rates
@@ -9,20 +9,21 @@ mmm ...
 Therefore I conclude that users with personal computers have better interaction with the product
 
 
-## Exercise #2
+## B. Exercise #2
 mmm ...
 
 
 
-## Discussion
+## C. Discussion
 
-### Web App
+### C.1. Web App
 mmm ...
 
 ![Retention of Clients Oroject Saeid Ashraf](Assets/web_app.PNG)
 
-### Release flow
+### C.2. Release flow
 mmm ...
+
 ![Retention of Clients Oroject Saeid Ashraf](Assets/release_flow.PNG)
 
 
