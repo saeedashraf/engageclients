@@ -107,7 +107,7 @@ That's exactly where the machine learning models can help us to find either a us
 To decide if a customer is loyal or not? And to see if the user will return to the platform and use other pages, we need to benefit from ML first to classify the users and second to recommend the new products and pages. 
 
 As it is a supervised machine learning problem, we first need to lablelize the data.
-In this task, I calculated the averages and the percentile 50% of the frequency of instances and found the Q50 is 3. So I to use Q50.
+In this task, I calculated the averages and the percentile 50% of the frequency of instances and found the Q50 is 3. So I used Q50.
 
 So a user is loyal and will return and use pages if the total frequency of the user is equal or greater than 3. 
 
@@ -131,6 +131,8 @@ The next step would be to use a voting system for the ensemble of models
 # B. Exercise #2
 ## For this exercise I did not only draw the skeleton but rather build a recommender system using Tensorflow recommenders and scikit learn library separately
 
+1. Create models to recommend products based on the pages
+2. Use modeles in a REST API, developed in Python
 
 
 
@@ -139,12 +141,13 @@ The next step would be to use a voting system for the ensemble of models
 ### C.1. Web App
 mmm ...
 
-![Retention of Clients Oroject Saeid Ashraf](Assets/web_app.PNG)
+![the schematic framework of the web app (Oreilly 2019, hands-on machine learning](Assets/web_app.PNG)
 
 ### C.2. Release flow
-mmm ...
 
-![Retention of Clients Oroject Saeid Ashraf](Assets/release_flow.PNG)
+#### The release cycle of our products in case we needed to develop a package. For instance, other colleagues and data scientists might benefit from our product.
+
+![The package development flow](Assets/release_flow.PNG)
 
 
 
