@@ -2,7 +2,7 @@
 from flask import Flask
 from flask import request
 
-from main2 import execute 
+from main_fun import execute 
 
 app = Flask(__name__) 
 
@@ -10,10 +10,19 @@ app = Flask(__name__)
 
 def index():
     data = request.json
-    print(data["title"])
+    print(data["user_id"])
+    print(data["os"])
+    print(data["browser"])
+    print(data["plan"])
+    print(data["page"])
     
-    title = data["title"]
-    return execute(title)
+    user_id = data["user_id"]
+    os = data["os"]
+    browser = data["browser"]
+    plan = data["plan"]
+    page = data["page"]
+    
+    return execute(user_id, os, browser, plan, page)
 
 if __name__ == '__main__':
     app.run(debug=True)

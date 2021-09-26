@@ -6,12 +6,11 @@ import json
 # defining the api-endpoint  
 API_ENDPOINT = "http://localhost:5000/classify"
   
-# API key here 
+# API key here
 # API_KEY = "XXXXXXXXXXXXXXXXX"
   
-  
 # data to be sent to api 
-data = { "title": "1 paar shchuhe " }
+data = { "user_id": 70783149580088580103192490613649001201, "os": "windows", "browser": "Firefox", "plan": "yearly", "page": "edit"}
 finalJson = json.dumps(data)
 headers= {"Content-Type": "application/json"}
 
