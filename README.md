@@ -109,7 +109,7 @@ It could be assumed that the features are independent, or we can not recognize t
 That's exactly where the machine learning models can help us to find either a user will be loyal or not?
 To decide if a customer is loyal or not? And to see if the user will return to the platform and use other pages, we need to benefit from ML first to classify the users and second to recommend the new products and pages. 
 
-As it is a supervised machine learning problem, we first need to lablelize the data.
+As it is a supervised machine learning problem, we first need assign labels for the data.
 In this task, I calculated the averages and the percentile 50% of the frequency of instances and found the Q50 is 3. So I used Q50.
 
 So a user is loyal and will return and use pages if the total frequency of the user is equal or greater than 3. 
@@ -119,7 +119,7 @@ Yes or 1 for total usage >= 3
 No or 0 for total usage < 3
 
 
-### The folwing steps are the ones I performed on the data to setup the ML models: 
+### The folwing steps are the ones I performed on the data to set up the ML models: 
 #### 1. Data cleaning and handling missing data (I used the mode of feature to fill the nan)
 #### 2. ML models on the entire instances
 #### 3. ML models on the unique users
@@ -129,7 +129,7 @@ No or 0 for total usage < 3
 
 
 ### Finally, we have trained a group of models that perform well on the taring set and are verified accurately on the test set. 
-The next step would be to use a voting system for the ensemble of models 
+The next step would be to use a voting system for the ensemble of models.
 
 
 
@@ -141,7 +141,7 @@ Please look at the Jupyter notebook of exercise 2.
 
 ### The folwing steps are suggested:
 #### 1. Create models to recommend products based on the pages
-#### 2. Use modeles in a REST API, developed in Python
+#### 2. Use the developed models in a REST API, developed in Python
 #### 3. Deploy the model and data located in the app folder to the Amazon S3 for virtual hosting, or Azure
 
 ## I propose 
@@ -156,6 +156,8 @@ Please look at the Jupyter notebook of exercise 2.
 
 ![the schematic framework of the web app (Oreilly 2019, hands-on machine learning](Assets/web_app.PNG)
 
+
+#### I propose the following structure for using REST API
 ![the schematic framework of the web app Oreilly 2019, hands-on machine learning](Assets/flow.png)
 
 
