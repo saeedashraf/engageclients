@@ -11,7 +11,14 @@ The new Tensorflew Recommendation API has been utilized to develop the recommend
 
 1. Desktop applications have much better retention rates
 2. Linux OS has similar users compared to IOS and Android, but with higher retention
-Therefore I conclude that users with personal computers have better interaction with the product
+Therefore I conclude that users with personal computers have better interaction with the product.
+3. Most of the users use Firefox browser to benefit from the product however, still many will not engage enough and will not return
+4. IOS and Mac OS users are a few in comparison to the other OS users with relatively low retention
+5. word, compress, and merge are the most used products by users
+6. and alot more
+
+
+### Based on the analyses I did, the main users are those who come from Firefox, under windows OS system and use the word, compress, and merge
 
 ## First Run of Visualization
 
@@ -89,7 +96,12 @@ Therefore I conclude that users with personal computers have better interaction 
 
 
 #### Retention of Unique Clients based on the pages feature
+##### These are promising results showing the engagement of unique users based on the product they use
 ![Retention of Unique Clients based on the pages feature](Assets/Unique_id_page_all_freq.png)
+
+
+
+### Some extra work and assessments for exercsie 1
 
 
 
