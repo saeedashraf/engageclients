@@ -129,17 +129,17 @@ No or 0 for total usage < 3
 The next step would be to use a voting system for the ensemble of models 
 
 # B. Exercise #2
-## For this exercise I did not only draw the skeleton but rather build a recommender system using Tensorflow recommenders and scikit learn library separately
+## For this exercise I did not only draw the skeleton but rather built a recommender system using Tensorflow recommenders and scikit learn library separately
 
-1. Create models to recommend products based on the pages
-2. Use modeles in a REST API, developed in Python
+#### 1. Create models to recommend products based on the pages
+#### 2. Use modeles in a REST API, developed in Python
 
 
 
 ## C. Discussion
 
 ### C.1. Web App
-mmm ...
+#### The machine learning model will serve as a service, and the web and mobile applications are connected to that using REST API
 
 ![the schematic framework of the web app (Oreilly 2019, hands-on machine learning](Assets/web_app.PNG)
 
