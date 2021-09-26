@@ -9,6 +9,9 @@ mmm ...
 Therefore I conclude that users with personal computers have better interaction with the product
 
 
+![Retention of Clients based on the page feature](Assets/page.png)
+
+
 ## B. Exercise #2
 mmm ...
 
