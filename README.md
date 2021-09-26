@@ -144,7 +144,7 @@ The next step would be to use a voting system for the ensemble of models
 ![the schematic framework of the web app (Oreilly 2019, hands-on machine learning](Assets/web_app.PNG)
 
 
-![the schematic framework of the web app (@ Saeid Vaghefi 2021g](Assets/flow.PNG)
+![the schematic framework of the web app (@ Saeid Vaghefi 2021g)](Assets/flow.PNG)
 
 ### C.2. Release flow
 
