@@ -15,10 +15,10 @@ Therefore I conclude that users with personal computers have better interaction 
 3. Most of the users use Firefox browser to benefit from the product however, still many will not engage enough and will not return
 4. IOS and Mac OS users are a few in comparison to the other OS users with relatively low retention
 5. word, compress, and merge are the most used products by users
-6. and alot more
+6. and more
 
+### Based on the analyses (descriptive statistics) I did, the primary users come from Firefox, under the Windows operating system, and use the word, compress, and merge pages.
 
-### Based on the analyses I did, the main users are those who come from Firefox, under windows OS system and use the word, compress, and merge
 
 ## First Run of Visualization
 
@@ -101,28 +101,53 @@ Therefore I conclude that users with personal computers have better interaction 
 
 
 
-### Some extra work and assessments for exercsie 1
+## Assessments for exercise 1 - ML
+It could be assumed that the features are independent, or we can not recognize the relationship between them based on the exploratory analyses. 
+That's exactly where the machine learning models can help us to find either a user will be loyal or not?
+To decide if a customer is loyal or not? And to see if the user will return to the platform and use other pages, we need to benefit from ML first to classify the users and second to recommend the new products and pages. 
+
+As it is a supervised machine learning problem, we first need to lablelize the data.
+In this task, I calculated the averages and the percentile 50% of the frequency of instances and found the Q50 is 3. So I used Q50.
+
+So a user is loyal and will return and use pages if the total frequency of the user is equal or greater than 3. 
+
+Labels : 
+Yes or 1 for total usage >= 3
+No or 0 for total usage < 3
+
+
+### The folwing steps are the ones I performed on the data to setup the ML models: 
+#### 1. Data cleaning and handling missing data (I used the mode of feature to fill the nan)
+#### 2. ML on the entire instances
+#### 3. ML on the unique users
+#### 4. ML on uniques users by adding a new feature (frequency of usage per user)
+#### 5. ML on uniques users by adding a new feature (frequency of usage per user) and limiting the maximum usage (mainly to improve SVM)
 
 
 
-
+### Finally, we have trained a group of models that perform well on the taring set and are verified accurately on the test set. 
+The next step would be to use a voting system for the ensemble of models 
 
 # B. Exercise #2
-mmm ...
+## For this exercise I did not only draw the skeleton but rather built a recommender system using Tensorflow recommenders and scikit learn library separately
+
+#### 1. Create models to recommend products based on the pages
+#### 2. Use modeles in a REST API, developed in Python
 
 
 
 ## C. Discussion
 
 ### C.1. Web App
-mmm ...
+#### The machine learning model will serve as a service, and the web and mobile applications are connected to that using REST API
 
-![Retention of Clients Oroject Saeid Ashraf](Assets/web_app.PNG)
+![the schematic framework of the web app (Oreilly 2019, hands-on machine learning](Assets/web_app.PNG)
 
 ### C.2. Release flow
-mmm ...
 
-![Retention of Clients Oroject Saeid Ashraf](Assets/release_flow.PNG)
+#### The release cycle of our products in case we needed to develop a package. For instance, other colleagues and data scientists might benefit from our product.
+
+![The package development flow](Assets/release_flow.PNG)
 
 
 
