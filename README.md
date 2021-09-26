@@ -101,6 +101,9 @@ Therefore I conclude that users with personal computers have better interaction 
 
 
 
+
+
+
 ## Assessments for exercise 1 - ML
 It could be assumed that the features are independent, or we can not recognize the relationship between them based on the exploratory analyses. 
 That's exactly where the machine learning models can help us to find either a user will be loyal or not?
