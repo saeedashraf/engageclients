@@ -7,7 +7,7 @@ The new Tensorflew Recommendation API has been utilized to develop the recommend
 
 # A. Exercise #1
 
-#### Based on the information provided, What are some of the biggest drivers of retention and engagement? Why?
+### Based on the information provided, What are some of the biggest drivers of retention and engagement? Why?
 
 1. Desktop applications have much better retention rates
 2. Linux OS has similar users compared to IOS and Android, but with higher retention
