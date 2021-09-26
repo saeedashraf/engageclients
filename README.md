@@ -15,14 +15,17 @@ Therefore I conclude that users with personal computers have better interaction 
 ### First Run of Visualization
 
 
+#### Retention of all instances based on the page feature
+![Retention of all instances based on the page feature](Assets/all_instances_page_freq.png)
 
-![Retention of Clients based on the page feature](Assets/all_instances_page_freq.png)
+#### Retention of all instances based on the os feature
+![Retention of all instances based on the os feature](Assets/all_instances_os_freq.png)
 
-![Retention of Clients based on the page feature](Assets/all_instances_os_freq.png)
+#### Retention of all instances based on the browser featur
+![Retention of all instances based on the browser feature](Assets/all_instances_browser_freq.png)
 
-![Retention of Clients based on the page feature](Assets/all_instances_browser_freq.png)
-
-![Retention of Clients based on the page feature](Assets/all_instances_all_in_one_freq.png)
+#### Retention of all instances based on the browser feature
+![Retention of all instances based on the browser feature](Assets/all_instances_all_in_one_freq.png)
 
 
 
