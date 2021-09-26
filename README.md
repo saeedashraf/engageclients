@@ -1,5 +1,9 @@
 # engageclients
-mmm ...
+
+This repository includes the answers to the two tasks of the Samllpdf. 
+It is designed in a way that one can classify if a user would be loyal or not. There are two models to suggest new pages and products to users.
+
+The new Tensorflew Recommendation API has been utilized to develop the recommender system.
 
 ## A. Exercise #1
 
