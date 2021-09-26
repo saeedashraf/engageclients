@@ -36,59 +36,59 @@ Therefore I conclude that users with personal computers have better interaction 
 
 ## Second Run of Visualization
 
-Retention of Unique Clients based on the chrome browser feature
+#### Retention of Unique Clients based on the chrome browser feature
 ![Retention of Unique Clients based on the chrome browser feature](Assets/Unique_id_brows_chrome_freq.png)
 
 
-Retention of Unique Clients based on the chrome browser feature
+#### Retention of Unique Clients based on the chrome browser feature
 ![Retention of Unique Clients based on the chrome browser feature](Assets/Unique_id_brows_edge_freq.png)
 
 
-Retention of Unique Clients based on the Firefox browser feature
+#### Retention of Unique Clients based on the Firefox browser feature
 ![Retention of Unique Clients based on the Firefox browser feature](Assets/Unique_id_brows_firefox_freq.png)
 
 
-Retention of Unique Clients based on the chrome IE feature
+#### Retention of Unique Clients based on the chrome IE feature
 ![Retention of Unique Clients based on the chrome IE feature](Assets/Unique_id_brows_ie_freq.png)
 
 
-Retention of Unique Clients based on the Opera browser feature
+#### Retention of Unique Clients based on the Opera browser feature
 ![Retention of Unique Clients based on the Opera browser feature](Assets/Unique_id_brows_opera_freq.png)
 
 
-Retention of Unique Clients based on the Safari browser feature
+#### Retention of Unique Clients based on the Safari browser feature
 ![Retention of Unique Clients based on the Safari browser feature](Assets/Unique_id_brows_safari_freq.png)
 
 
-Retention of Unique Clients based on the Android OS feature
+#### Retention of Unique Clients based on the Android OS feature
 ![Retention of Unique Clients based on the Android OS feature](Assets/Unique_id_os_android_freq.png)
 
 
-Retention of Unique Clients based on the IOS OS feature
+#### Retention of Unique Clients based on the IOS OS feature
 ![Retention of Unique Clients based on the IOS OS feature](Assets/Unique_id_os_ios_freq.png)
 
 
-Retention of Unique Clients based on the Linux OS feature
+#### Retention of Unique Clients based on the Linux OS feature
 ![Retention of Unique Clients based on the Linux OS feature](Assets/Unique_id_os_linux_freq.png)
 
 
-Retention of Unique Clients based on the Mac OS feature
+#### Retention of Unique Clients based on the Mac OS feature
 ![Retention of Unique Clients based on the Mac OS feature](Assets/Unique_id_os_macos_freq.png)
 
 
-Retention of Unique Clients based on the Windows OS feature
+#### Retention of Unique Clients based on the Windows OS feature
 ![Retention of Unique Clients based on the Windows OS feature](Assets/Unique_id_os_windows_freq.png)
 
 
-Retention of Unique Clients based on the Monthly Plan feature
+#### Retention of Unique Clients based on the Monthly Plan feature
 ![Retention of Unique Clients based on the Monthly Plan feature](Assets/Unique_id_plan_monthly_freq.png)
 
 
-Retention of Unique Clients based on the Yearly Plan feature
+#### Retention of Unique Clients based on the Yearly Plan feature
 ![Retention of Unique Clients based on the Yearly Plan feature](Assets/Unique_id_plan_yearly_freq.png)
 
 
-Retention of Unique Clients based on the pages feature
+#### Retention of Unique Clients based on the pages feature
 ![Retention of Unique Clients based on the pages feature](Assets/Unique_id_page_all_freq.png)
 
 
