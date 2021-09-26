@@ -8,12 +8,57 @@ The new Tensorflew Recommendation API has been utilized to develop the recommend
 ## A. Exercise #1
 
 #### Based on the information provided, What are some of the biggest drivers of retention and engagement? Why?
+
 1. Desktop applications have much better retention rates
 2. Linux OS has similar users compared to IOS and Android, but with higher retention
 Therefore I conclude that users with personal computers have better interaction with the product
+### First Run of Visualization
 
 
-![Retention of Clients based on the page feature](Assets/page.png)
+
+![Retention of Clients based on the page feature](Assets/all_instances_page_freq.png)
+
+![Retention of Clients based on the page feature](Assets/all_instances_os_freq.png)
+
+![Retention of Clients based on the page feature](Assets/all_instances_browser_freq.png)
+
+![Retention of Clients based on the page feature](Assets/all_instances_all_in_one_freq.png)
+
+
+
+
+### Second Run of Visualization
+
+
+![Retention of Clients based on the page feature](Assets/Unique_id_brows_chrome_freq.png)
+
+![Retention of Clients based on the page feature](Assets/Unique_id_brows_edge_freq.png)
+
+![Retention of Clients based on the page feature](Assets/Unique_id_brows_firefox_freq.png)
+
+![Retention of Clients based on the page feature](Assets/Unique_id_brows_ie_freq.png)
+
+![Retention of Clients based on the page feature](Assets/Unique_id_brows_opera_freq.png)
+
+![Retention of Clients based on the page feature](Assets/Unique_id_brows_safari_freq.png)
+
+![Retention of Clients based on the page feature](Assets/Unique_id_os_android_freq.png)
+
+![Retention of Clients based on the page feature](Assets/Unique_id_os_ios_freq.png)
+
+![Retention of Clients based on the page feature](Assets/Unique_id_os_linux_freq.png)
+
+![Retention of Clients based on the page feature](Assets/Unique_id_os_macos_freq.png)
+
+![Retention of Clients based on the page feature](Assets/Unique_id_os_windows_freq.png)
+
+![Retention of Clients based on the page feature](Assets/Unique_id_plan_monthly_freq.png)
+
+![Retention of Clients based on the page feature](Assets/Unique_id_plan_yearly_freq.png)
+
+![Retention of Clients based on the page feature](Assets/Unique_id_page_all_freq.png)
+
+
 
 
 ## B. Exercise #2
