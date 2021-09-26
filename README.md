@@ -17,8 +17,8 @@ Therefore I conclude that users with personal computers have better interaction 
 5. word, compress, and merge are the most used products by users
 6. and alot more
 
+### Based on the analyses (descriptive statistics) I did, the primary users come from Firefox, under the Windows operating system, and use the word, compress, and merge pages.
 
-### Based on the analyses I did, the main users are those who come from Firefox, under windows OS system and use the word, compress, and merge
 
 ## First Run of Visualization
 
@@ -102,10 +102,24 @@ Therefore I conclude that users with personal computers have better interaction 
 
 
 ### Some extra work and assessments for exercsie 1
+It could be assumed that the features are independent, or we can not recognize the relationship between them based on the exploratory analyses. 
+That's exactly where the machine learning models can help us to find either a user will be loyal or not?
+To decide if a customer is loyal or not? And to see if the user will return to the platform and use other pages, we need to benefit from ML first to classify the users and second to recommend the new products and pages. 
+
+As it is a supervised machine learning problem, we first need to lablelize the data.
+In this task, I calculated the averages and the percentile 50% of the frequency of instances and found the Q50 is 3. So I to use Q50.
+
+So a user is loyal and will return and use pages if the total frequency of the user is equal or greater than 3. 
+
+Labels : 
+Yes or 1 for total usage >= 3
+No or 0 for total usage < 3
 
 
+### Now, these are the steps I performed on the data to setup the ML models: 
 
-
+1. Data cleaning and handling missing data (I used the mode of feature to fill the nan)
+2. 
 
 # B. Exercise #2
 mmm ...
