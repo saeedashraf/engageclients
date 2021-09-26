@@ -121,10 +121,10 @@ No or 0 for total usage < 3
 
 ### The folwing steps are the ones I performed on the data to setup the ML models: 
 #### 1. Data cleaning and handling missing data (I used the mode of feature to fill the nan)
-#### 2. ML on the entire instances
-#### 3. ML on the unique users
-#### 4. ML on uniques users by adding a new feature (frequency of usage per user)
-#### 5. ML on uniques users by adding a new feature (frequency of usage per user) and limiting the maximum usage (mainly to improve SVM)
+#### 2. ML models on the entire instances
+#### 3. ML models on the unique users
+#### 4. ML models on uniques users by adding a new feature (frequency of usage per user)
+#### 5. ML models on uniques users by adding a new feature (frequency of usage per user) and limiting the maximum usage (mainly to improve SVM)
 
 
 
@@ -148,9 +148,10 @@ Please look at the Jupyter notebook of exercise 2.
 1) using the recommender system that I built for the product team. After the user finished their task, a notification pops up with three recommendations, as shown in notebook 2 
 2) The users probably do not know such products exist. 
 
-## C. Discussion
 
-### C.1. Web App
+# C. Discussion
+
+## C.1. Web App
 #### The machine learning model will serve as a service, and the web and mobile applications are connected to that using REST API
 
 ![the schematic framework of the web app (Oreilly 2019, hands-on machine learning](Assets/web_app.PNG)
@@ -158,7 +159,7 @@ Please look at the Jupyter notebook of exercise 2.
 ![the schematic framework of the web app Oreilly 2019, hands-on machine learning](Assets/flow.png)
 
 
-### C.2. Release flow
+## C.2. Release flow
 
 #### The release cycle of our products in case we needed to develop a package would be as follows. 
 
@@ -168,7 +169,7 @@ Please look at the Jupyter notebook of exercise 2.
 
 
 
-## Contributing
+# Contributing
 
 To contribute follow these steps:
 
@@ -188,7 +189,7 @@ See our [contribution guidelines](http://www.saeidashraf.com/) for more informat
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [releases on this repository](https://github.com/saeedashraf/engageclients).
 
-## License
+# License
 
 Copyright (C) 2021 saeidashraf, engageclients contributors listed in AUTHORS.
 
