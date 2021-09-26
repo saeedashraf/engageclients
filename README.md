@@ -128,13 +128,22 @@ No or 0 for total usage < 3
 ### Finally, we have trained a group of models that perform well on the taring set and are verified accurately on the test set. 
 The next step would be to use a voting system for the ensemble of models 
 
-# B. Exercise #2
-## For this exercise I did not only draw the skeleton but rather built a recommender system using Tensorflow recommenders and scikit learn library separately
 
+
+
+# B. Exercise #2
+## For this exercise, I did not only draw the skeleton but rather built a recommender system using Tensorflow recommenders, and scikit learn library separately. 
+Please look at the Jupyter notebook of exercise 2.
+
+
+### The folwing steps are suggested:
 #### 1. Create models to recommend products based on the pages
 #### 2. Use modeles in a REST API, developed in Python
+#### 3. Deploy the model and data located in the app folder to the Amazon S3 for virtual hosting, or Azure
 
-
+## I propose 
+1) using the recommender system that I built for the product team. After the user finished their task, a notification pops up with three recommendations, as shown in notebook 2 
+2) The users probably do not know such products exist. 
 
 ## C. Discussion
 
@@ -148,9 +157,11 @@ The next step would be to use a voting system for the ensemble of models
 
 ### C.2. Release flow
 
-#### The release cycle of our products in case we needed to develop a package. For instance, other colleagues and data scientists might benefit from our product.
+#### The release cycle of our products in case we needed to develop a package would be as follows. 
 
 ![The package development flow](Assets/release_flow.PNG)
+
+#### For instance, other colleagues and data scientists could benefit from our product.
 
 
 
