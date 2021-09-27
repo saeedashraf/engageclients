@@ -123,8 +123,8 @@ No or 0 for total usage < 3
 #### 1. Data cleaning and handling missing data (I used the mode of feature to fill the nan)
 #### 2. ML models on the entire instances
 #### 3. ML models on the unique users
-#### 4. ML models on uniques users by adding a new feature (frequency of usage per user)
-#### 5. ML models on uniques users by adding a new feature (frequency of usage per user) and limiting the maximum usage (mainly to improve SVM)
+#### 4. ML models on unique users by adding a new feature (frequency of usage per user)
+#### 5. ML models on unique users by adding a new feature (frequency of usage per user) and limiting the maximum usage (mainly to improve SVM and avoid empowering of one feature)
 
 
 
